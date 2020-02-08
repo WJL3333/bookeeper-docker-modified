@@ -2,7 +2,7 @@
 
 origin apache/bookeeper docker-compose.yml can't start a bookeeper cluster successfully
 
-so i modified it on my own
+so i modified it reference https://github.com/sijie/bookkeeper/tree/5e9b85888a49b6110cf90ab0c010ea2ffe643dfb/docker/scripts
 
 
 ## how to use
